@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4074b1f4-2f09-474e-b616-296c69150916": {
+      "ProjectGuid": "4074b1f4-2f09-474e-b616-296c69150916",
+      "DisplayName": "AuthAPI",
+      "ColorIndex": 0
+    },
+    "6150bfbc-1094-4b32-812d-2ac8b92bd90d": {
+      "ProjectGuid": "6150bfbc-1094-4b32-812d-2ac8b92bd90d",
+      "DisplayName": "StockAPI",
+      "ColorIndex": 1
+    },
+    "86a7be9a-76df-41fe-8b2e-2d6253f19ad6": {
+      "ProjectGuid": "86a7be9a-76df-41fe-8b2e-2d6253f19ad6",
+      "DisplayName": "GatewayAPI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

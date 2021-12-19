@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthAPI", "AuthAPI\AuthAPI.csproj", "{4074B1F4-2F09-474E-B616-296C69150916}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockAPI", "StockAPI\StockAPI.csproj", "{6150BFBC-1094-4B32-812D-2AC8B92BD90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GatewayAPI", "GatewayAPI\GatewayAPI.csproj", "{86A7BE9A-76DF-41FE-8B2E-2D6253F19AD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4074B1F4-2F09-474E-B616-296C69150916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4074B1F4-2F09-474E-B616-296C69150916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4074B1F4-2F09-474E-B616-296C69150916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4074B1F4-2F09-474E-B616-296C69150916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6150BFBC-1094-4B32-812D-2AC8B92BD90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6150BFBC-1094-4B32-812D-2AC8B92BD90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6150BFBC-1094-4B32-812D-2AC8B92BD90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6150BFBC-1094-4B32-812D-2AC8B92BD90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A7BE9A-76DF-41FE-8B2E-2D6253F19AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A7BE9A-76DF-41FE-8B2E-2D6253F19AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A7BE9A-76DF-41FE-8B2E-2D6253F19AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A7BE9A-76DF-41FE-8B2E-2D6253F19AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE57A31-0DF5-46B7-B3C3-21E6D59F6228}
+	EndGlobalSection
+EndGlobal
